@@ -3,5 +3,7 @@ pandas
 scikit-learn
 matplotlib  
 seaborn
-
--e .
+catboost
+xgboost
+lightgbm
+# -e .
