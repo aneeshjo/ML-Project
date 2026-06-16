@@ -6,4 +6,5 @@ seaborn
 catboost
 xgboost
 lightgbm
+dill
 # -e .
